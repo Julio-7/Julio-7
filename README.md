@@ -4,7 +4,10 @@
 
 <h3 align="left">Olá! :wave: seja bem vindo ao meu perfil!</h3>
 <strong>Sobre mim:</strong>
-<p align="left">...</p>
+<p align="left">- 🌱 Currently focusing on **Web development** and other programming languages.</p>
+- ⚡ Fun fact:  **Music + coffee = productivity.**
+
+
 
 <strong align="left">Linguagens e tecnologias:</strong>
 <!----->

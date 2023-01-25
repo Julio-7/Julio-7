@@ -2,12 +2,12 @@
 
 <img align="right" width="280px" src="https://i.imgur.com/GQks7vV.gif">
 
-<h3 align="left">Olá! :wave: seja bem vindo ao meu perfil!</h3>
-<strong>Sobre mim:</strong>
-<p align="left">- 🌱 Currently focusing on **Web development** and other programming languages.</p>
-- ⚡ Fun fact:  **Music + coffee = productivity.**
+<h3 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello! welcome to my profile!</h3>
+<h6><strong>About me:</strong></h6>
+<p align="left">- 🌱 Currently focusing on Web development and other programming languages.</p>
+- ⚡ Fun fact: Music + coffee = productivity.
 
-
+<br></br>
 
 <strong align="left">Linguagens e tecnologias:</strong>
 <!----->

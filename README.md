@@ -4,7 +4,7 @@
 
 <h3 align="left">Olá! :wave: seja bem vindo ao meu perfil!</h3>
 <strong>Sobre mim:</strong>
-<p align="left">Desde pequeno sempre fui apaixonado por computadores e tecnologias e aproveitando essa paixão, em outubro de 2021 iniciei meus estudos em Desenvolvimento Web através do <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>, que foi fundamental no meu inicio de jornada devido a didática excelente do <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>. Após isso, não consegui mais parar. Hoje sou aluno do Ignite da <a href="https://www.rocketseat.com.br">Rocketseat</a> e estou aprendendo coisas novas todos os dias!</p>
+<p align="left">...</p>
 
 <strong align="left">Linguagens e tecnologias:</strong>
 <!----->

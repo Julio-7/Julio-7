@@ -9,7 +9,8 @@
 
 <br></br>
 
-<strong align="left">Linguagens e tecnologias:</strong>
+<strong align="left">Languages ​​and technologies:
+</strong>
 <!----->
 
 <p>

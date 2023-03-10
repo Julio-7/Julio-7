@@ -7,6 +7,7 @@
 <p align="left">- 🌱 Currently focusing on Web development and other programming languages.</p>
 - ⚡ Fun fact: Music + coffee = productivity.</p>
 <p align="left">-💻👨🏻‍💻I am coding right now as you are reading</p>
+</p>
 
 > "Each dream you leave behind is a part of your future that will no longer exist" </p>
 > ― Steve Jobs

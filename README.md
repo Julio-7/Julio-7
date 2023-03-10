@@ -8,6 +8,9 @@
 - ⚡ Fun fact: Music + coffee = productivity.</p>
 <p align="left">-💻👨🏻‍💻I am coding right now as you are reading</p>
 
+> "Each dream you leave behind is a part of your future that will no longer exist"
+> ― Steve Jobs
+
 <br></br>
 
 <strong align="left">Languages ​​and technologies:

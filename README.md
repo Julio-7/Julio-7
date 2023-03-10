@@ -5,8 +5,8 @@
 <h3 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello! welcome to my profile!</h3>
 <h6><strong>About me:</strong></h6>
 <p align="left">- 🌱 Currently focusing on Web development and other programming languages.</p>
-- ⚡ Fun fact: Music + coffee = productivity.
-- <p align="left">-💻👨🏻‍💻I am coding right now as you are reading</p>
+- ⚡ Fun fact: Music + coffee = productivity.</p>
+<p align="left">-💻👨🏻‍💻I am coding right now as you are reading</p>
 
 <br></br>
 

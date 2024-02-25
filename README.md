@@ -2,7 +2,7 @@
 
 <img align="right" width="280px" src="https://i.imgur.com/GQks7vV.gif">
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello! welcome to my profile!</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello World!!</h3>
 <h6><strong>About me:</strong></h6>
 <p align="left">- 🌱 Currently focusing on Web development and other programming languages.</p>
 - ⚡ Fun fact: Music + coffee = productivity.</p>
